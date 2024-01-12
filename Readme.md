@@ -49,6 +49,17 @@
 - Research and identify a recent cybersecurity threat. Describe its impact and preventive measures.
 - Set up SSL/TLS on a web server if possible, or understand how it's implemented.
 
+  ### Differences Between HTTP and HTTPS:
+
+| Feature                   | HTTP                  | HTTPS                       |
+|---------------------------|-----------------------|-----------------------------|
+| Full Form                 | HyperText Transfer Protocol | HyperText Transfer Protocol Secure |
+| Encryption                | No encryption          | Uses SSL/TLS encryption for secure communication |
+| Data Transmission         | Unsecured              | Secured                     |
+| Port                      | 80                    | 443                         |
+| URL                       | Starts with `http://`  | Starts with `https://`      |
+### Visual Representation:
+![HTTP vs HTTPS Diagram](https://ithub.com/sushmita950/CyberSecurityhttp-vs-https.png)
 ## Week 4: Practical Tools
 ### Questions:
 1. Why is Python a valuable language in cybersecurity?
