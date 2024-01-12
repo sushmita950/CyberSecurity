@@ -22,4 +22,4 @@
 | Port                      | 80                    | 443                         |
 | URL                       | Starts with `http://`  | Starts with `https://`      |
 ### Visual Representation:
-![HTTP vs HTTPS Diagram](https://github.com/sushmita950/CyberSecurity/blob/main/http-vs-https.png)
+![HTTP vs HTTPS Diagram](https://github.com/sushmita950/CyberSecurity/blob/main/Week%203%3A%20Security%20Concepts/http-vs-https.png)
