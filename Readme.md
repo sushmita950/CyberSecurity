@@ -59,7 +59,7 @@
 | Port                      | 80                    | 443                         |
 | URL                       | Starts with `http://`  | Starts with `https://`      |
 ### Visual Representation:
-![HTTP vs HTTPS Diagram](https://ithub.com/sushmita950/CyberSecurityhttp-vs-https.png)
+![HTTP vs HTTPS Diagram](https://github.com/sushmita950/CyberSecurity/blob/main/http-vs-https.png)
 ## Week 4: Practical Tools
 ### Questions:
 1. Why is Python a valuable language in cybersecurity?
