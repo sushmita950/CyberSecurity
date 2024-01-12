@@ -6,7 +6,9 @@
 ### Answers:
 1. An IP address is a numerical label assigned to each device participating in a computer network. It is essential for device identification and location.
 2. IPv4 uses 32-bit addresses, while IPv6 uses 128-bit addresses. IPv6 was introduced to address the limitation of IPv4 addresses.
-3. Routers connect different networks, switches connect devices within a network, and firewalls control incoming and outgoing network traffic.
+
+   ![HTTP vs HTTPS Diagram](https://github.com/sushmita950/CyberSecurity/blob/main/Week%202%3A%20Networking%20Fundamentals/IPv4-Address-Format.png)
+4. Routers connect different networks, switches connect devices within a network, and firewalls control incoming and outgoing network traffic.
 
 ### Tasks:
 - Install Nmap and perform a basic network scan on your home network.
