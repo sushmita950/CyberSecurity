@@ -28,6 +28,10 @@
 
 ### Tasks:
 - Install Nmap and perform a basic network scan on your home network.
+
+- Install Nmap on Ubuntu using the following command:
+  ```bash
+  sudo apt-get install nmap
 - Explore Wireshark, capture network traffic, and analyze the data.
 
 ## Week 3: Security Concepts
